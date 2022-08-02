@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noorit2
 - 👀 I’m interested in web design&development
-- 🌱 I’m currently learning web design&develpoment and c++
+- 🌱 I’m currently learning MERN and UX
 
 
 <!---
