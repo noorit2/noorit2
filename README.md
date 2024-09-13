@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noorit2
-- A full-stack web developer
+- ✨ A full-stack web developer
 - 👀 I’m interested in web design&development
 
 
