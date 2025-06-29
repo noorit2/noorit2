@@ -1,6 +1,19 @@
-- 👋 Hi, I’m @noorit2
-- ✨ A web developer
-- 👀 I’m interested in web design&development
+# hello, world! ☾𖤓
+I'm a frontend engineer with a passion for building clean, user-centric web applications. Pragmatic, fast-learning, and detail-oriented, I love crafting interactive interfaces that just *make sense*
+
+---
+
+## 💻 Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind,sass,nodejs,express,postgres)](https://skillicons.dev)
+
+---
+
+## 📫 Let’s Connect
+
+- 🌍 [Portfolio Website](#) (coming soon)
+- 📩 Reach me by email: **nooreddin.dev[@]email.com**
+
+> “Tell it like it is. Build it like it matters.”
 
 
 
