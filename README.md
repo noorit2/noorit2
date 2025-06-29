@@ -11,7 +11,7 @@ I'm a frontend engineer with a passion for building clean, user-centric web appl
 ## 📫 Let’s Connect
 
 - 🌍 [Portfolio Website](#) (coming soon)
-- 📩 Reach me by email: **nooreddin.dev[@]email.com**
+- 📩 Reach me by email: **nooraldeinimad@gmail.com**
 
 > “Tell it like it is. Build it like it matters.”
 
