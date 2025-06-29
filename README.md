@@ -1,6 +1,6 @@
-# <h1 style="  background: -webkit-linear-gradient(#eee, #333);
+ <h1 style="  background: -webkit-linear-gradient(#eee, #333);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;">hello, world!</h1> ☾𖤓
+  -webkit-text-fill-color: transparent;">hello, world!☾𖤓 </h1> 
 I'm a frontend engineer with a passion for building clean, user-centric web applications. Pragmatic, fast-learning, and detail-oriented, I love crafting interactive interfaces that just *make sense*
 
 ---
