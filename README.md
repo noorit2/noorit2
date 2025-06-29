@@ -19,6 +19,8 @@ I'm a frontend engineer with a passion for building clean, user-centric web appl
   </a>
 </div>
 
+
+
 > “Tell it like it is. Build it like it matters.”
 
 
